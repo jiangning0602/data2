@@ -1,0 +1,712 @@
+[
+  {
+    "Entity": "Facebook",
+    "Year": 2008,
+    "Users": 100000000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2009,
+    "Users": 276000000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2010,
+    "Users": 517750000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2011,
+    "Users": 766000000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2012,
+    "Users": 979750000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2013,
+    "Users": 1170500000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2014,
+    "Users": 1334000000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2015,
+    "Users": 1516750000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2016,
+    "Users": 1753500000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2017,
+    "Users": 2035750000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2018,
+    "Users": 2255250000
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2019,
+    "Users": 2375000000
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2004,
+    "Users": 3675135
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2005,
+    "Users": 7399354
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2006,
+    "Users": 14949270
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2007,
+    "Users": 29299875
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2008,
+    "Users": 30000000
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2009,
+    "Users": 41834525
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2010,
+    "Users": 54708063
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2011,
+    "Users": 66954600
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2012,
+    "Users": 79664888
+  },
+  {
+    "Entity": "Flickr",
+    "Year": 2013,
+    "Users": 80000000
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2002,
+    "Users": 3000000
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2003,
+    "Users": 4470000
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2004,
+    "Users": 5970054
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2005,
+    "Users": 7459742
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2006,
+    "Users": 8989854
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2007,
+    "Users": 24253200
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2008,
+    "Users": 51008911
+  },
+  {
+    "Entity": "Friendster",
+    "Year": 2009,
+    "Users": 28804331
+  },
+  {
+    "Entity": "Google Buzz",
+    "Year": 2010,
+    "Users": 166029650
+  },
+  {
+    "Entity": "Google Buzz",
+    "Year": 2011,
+    "Users": 170000000
+  },
+  {
+    "Entity": "Google Buzz",
+    "Year": 2012,
+    "Users": 170000000
+  },
+  {
+    "Entity": "Google Buzz",
+    "Year": 2013,
+    "Users": 170000000
+  },
+  {
+    "Entity": "Google Buzz",
+    "Year": 2014,
+    "Users": 170000000
+  },
+  {
+    "Entity": "Google Buzz",
+    "Year": 2015,
+    "Users": 170000000
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2012,
+    "Users": 107319100
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2013,
+    "Users": 205654700
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2014,
+    "Users": 254859015
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2015,
+    "Users": 298950015
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2016,
+    "Users": 398648000
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2017,
+    "Users": 495657000
+  },
+  {
+    "Entity": "Google+",
+    "Year": 2018,
+    "Users": 430000000
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2005,
+    "Users": 9731610
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2006,
+    "Users": 19932360
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2007,
+    "Users": 29533250
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2008,
+    "Users": 55045618
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2009,
+    "Users": 57893524
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2010,
+    "Users": 59953290
+  },
+  {
+    "Entity": "Hi5",
+    "Year": 2011,
+    "Users": 46610848
+  },
+  {
+    "Entity": "Instagram",
+    "Year": 2013,
+    "Users": 117500000
+  },
+  {
+    "Entity": "Instagram",
+    "Year": 2014,
+    "Users": 250000000
+  },
+  {
+    "Entity": "Instagram",
+    "Year": 2015,
+    "Users": 400000000
+  },
+  {
+    "Entity": "Instagram",
+    "Year": 2016,
+    "Users": 550000000
+  },
+  {
+    "Entity": "Instagram",
+    "Year": 2017,
+    "Users": 750000000
+  },
+  {
+    "Entity": "Instagram",
+    "Year": 2018,
+    "Users": 1000000000
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2004,
+    "Users": 980036
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2005,
+    "Users": 19490059
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2006,
+    "Users": 54763260
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2007,
+    "Users": 69299875
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2008,
+    "Users": 72408233
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2009,
+    "Users": 70133095
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2010,
+    "Users": 68046710
+  },
+  {
+    "Entity": "MySpace",
+    "Year": 2011,
+    "Users": 46003536
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2004,
+    "Users": 4900180
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2005,
+    "Users": 9865805
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2006,
+    "Users": 14966180
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2007,
+    "Users": 26916562
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2008,
+    "Users": 44357628
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2009,
+    "Users": 47366905
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2010,
+    "Users": 49941613
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2011,
+    "Users": 47609080
+  },
+  {
+    "Entity": "Orkut",
+    "Year": 2012,
+    "Users": 45067022
+  },
+  {
+    "Entity": "Pinterest",
+    "Year": 2016,
+    "Users": 143250000
+  },
+  {
+    "Entity": "Pinterest",
+    "Year": 2017,
+    "Users": 195000000
+  },
+  {
+    "Entity": "Pinterest",
+    "Year": 2018,
+    "Users": 246500000
+  },
+  {
+    "Entity": "Pinterest",
+    "Year": 2019,
+    "Users": 291000000
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2006,
+    "Users": 248309
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2007,
+    "Users": 488331
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2008,
+    "Users": 1944940
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2009,
+    "Users": 3893524
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2014,
+    "Users": 135786956
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2015,
+    "Users": 163346676
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2016,
+    "Users": 238972480
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2017,
+    "Users": 297394200
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2018,
+    "Users": 355000000
+  },
+  {
+    "Entity": "Snapchat",
+    "Year": 2016,
+    "Users": 238648000
+  },
+  {
+    "Entity": "TikTok",
+    "Year": 2017,
+    "Users": 239142500
+  },
+  {
+    "Entity": "TikTok",
+    "Year": 2018,
+    "Users": 500000000
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2012,
+    "Users": 146890156
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2013,
+    "Users": 293482050
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2014,
+    "Users": 388721163
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2015,
+    "Users": 475923363
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2016,
+    "Users": 565796720
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2017,
+    "Users": 593783960
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2018,
+    "Users": 624000000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2010,
+    "Users": 43250000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2011,
+    "Users": 92750000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2012,
+    "Users": 160250000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2013,
+    "Users": 223675000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2014,
+    "Users": 223675000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2015,
+    "Users": 304500000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2016,
+    "Users": 314500000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2017,
+    "Users": 328250000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2018,
+    "Users": 329500000
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2019,
+    "Users": 330000000
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2011,
+    "Users": 47818400
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2012,
+    "Users": 118123370
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2013,
+    "Users": 196523760
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2014,
+    "Users": 444232415
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2015,
+    "Users": 660843407
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2016,
+    "Users": 847512320
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2017,
+    "Users": 921742750
+  },
+  {
+    "Entity": "WeChat",
+    "Year": 2018,
+    "Users": 1000000000
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2010,
+    "Users": 19532900
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2011,
+    "Users": 48691040
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2012,
+    "Users": 79195730
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2013,
+    "Users": 118261880
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2014,
+    "Users": 154890345
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2015,
+    "Users": 208716685
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2016,
+    "Users": 281026560
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2017,
+    "Users": 357569030
+  },
+  {
+    "Entity": "Weibo",
+    "Year": 2018,
+    "Users": 431000000
+  },
+  {
+    "Entity": "Whatsapp",
+    "Year": 2013,
+    "Users": 300000000
+  },
+  {
+    "Entity": "Whatsapp",
+    "Year": 2014,
+    "Users": 498750000
+  },
+  {
+    "Entity": "Whatsapp",
+    "Year": 2015,
+    "Users": 800000000
+  },
+  {
+    "Entity": "Whatsapp",
+    "Year": 2016,
+    "Users": 1000000000
+  },
+  {
+    "Entity": "Whatsapp",
+    "Year": 2017,
+    "Users": 1333333333
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2005,
+    "Users": 1946322
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2006,
+    "Users": 19878248
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2007,
+    "Users": 143932250
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2008,
+    "Users": 294493950
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2009,
+    "Users": 413611440
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2010,
+    "Users": 480551990
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2011,
+    "Users": 642669824
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2012,
+    "Users": 844638200
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2013,
+    "Users": 1065223075
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2014,
+    "Users": 1249451725
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2015,
+    "Users": 1328133360
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2016,
+    "Users": 1399053600
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2017,
+    "Users": 1495657000
+  },
+  {
+    "Entity": "YouTube",
+    "Year": 2018,
+    "Users": 1900000000
+  }
+]

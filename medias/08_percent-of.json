@@ -1,0 +1,3899 @@
+[
+  {
+    "Entity": "Abkhazia",
+    "Code": "OWID_ABK",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Akrotiri and Dhekelia",
+    "Code": "OWID_AKD",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "American Samoa",
+    "Code": "ASM",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Anguilla",
+    "Code": "AIA",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Year": 2015,
+    "Continent": "Antarctica",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Aruba",
+    "Code": "ABW",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Austria-Hungary",
+    "Code": "OWID_AUH",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Baden",
+    "Code": "OWID_BAD",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bavaria",
+    "Code": "OWID_BAV",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bonaire Sint Eustatius and Saba",
+    "Code": "BES",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bouvet Island",
+    "Code": "BVT",
+    "Year": 2015,
+    "Continent": "Antarctica",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "British Indian Ocean Territory",
+    "Code": "IOT",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "British Virgin Islands",
+    "Code": "VGB",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Channel Islands",
+    "Code": "OWID_CIS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Christmas Island",
+    "Code": "CXR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cocos Islands",
+    "Code": "CCK",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cook Islands",
+    "Code": "COK",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Curacao",
+    "Code": "CUW",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Czechoslovakia",
+    "Code": "OWID_CZS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "East Germany",
+    "Code": "OWID_GDR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Eritrea and Ethiopia",
+    "Code": "OWID_ERE",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 100000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 276000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 517750000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 766000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 979750000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 1170500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 1334000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 1516750000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 1753500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 2035750000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 2255250000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Facebook",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": 2375000000,
+    "Men": 63,
+    "Women": 75
+  },
+  {
+    "Entity": "Faeroe Islands",
+    "Code": "FRO",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Falkland Islands",
+    "Code": "FLK",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2004,
+    "Continent": "",
+    "Users": 3675135,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2005,
+    "Continent": "",
+    "Users": 7399354,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 14949270,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 29299875,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 30000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 41834525,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 54708063,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 66954600,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 79664888,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Flickr",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 80000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "French Guiana",
+    "Code": "GUF",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "French Polynesia",
+    "Code": "PYF",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "French Southern Territories",
+    "Code": "ATF",
+    "Year": 2015,
+    "Continent": "Antarctica",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2002,
+    "Continent": "",
+    "Users": 3000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2003,
+    "Continent": "",
+    "Users": 4470000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2004,
+    "Continent": "",
+    "Users": 5970054,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2005,
+    "Continent": "",
+    "Users": 7459742,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 8989854,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 24253200,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 51008911,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Friendster",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 28804331,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Gibraltar",
+    "Code": "GIB",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google Buzz",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 166029650,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google Buzz",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 170000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google Buzz",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 170000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google Buzz",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 170000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google Buzz",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 170000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google Buzz",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 170000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 107319100,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 205654700,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 254859015,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 298950015,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 398648000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 495657000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Google+",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 430000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guadeloupe",
+    "Code": "GLP",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guernsey",
+    "Code": "GGY",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hanover",
+    "Code": "OWID_HAN",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Heard Island and McDonald Islands",
+    "Code": "HMD",
+    "Year": 2015,
+    "Continent": "Antarctica",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hesse Electoral",
+    "Code": "OWID_HSE",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hesse Grand Ducal",
+    "Code": "OWID_HSG",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2005,
+    "Continent": "",
+    "Users": 9731610,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 19932360,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 29533250,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 55045618,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 57893524,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 59953290,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hi5",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 46610848,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 117500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 250000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 400000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 550000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 750000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 1000000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Instagram",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": "",
+    "Men": 31,
+    "Women": 43
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Isle of Man",
+    "Code": "IMN",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Jersey",
+    "Code": "JEY",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Kosovo",
+    "Code": "OWID_KOS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Liechtenstein",
+    "Code": "LIE",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "LinkedIn",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": "",
+    "Men": 29,
+    "Women": 24
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Macao",
+    "Code": "MAC",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Martinique",
+    "Code": "MTQ",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mayotte",
+    "Code": "MYT",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mecklenburg Schwerin",
+    "Code": "OWID_MEC",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Modena",
+    "Code": "OWID_MOD",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Monaco",
+    "Code": "MCO",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Montserrat",
+    "Code": "MSR",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2004,
+    "Continent": "",
+    "Users": 980036,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2005,
+    "Continent": "",
+    "Users": 19490059,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 54763260,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 69299875,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 72408233,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 70133095,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 68046710,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "MySpace",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 46003536,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Nagorno-Karabakh",
+    "Code": "OWID_NAG",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Nauru",
+    "Code": "NRU",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Netherlands Antilles",
+    "Code": "ANT",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "New Caledonia",
+    "Code": "NCL",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Niue",
+    "Code": "NIU",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Norfolk Island",
+    "Code": "NFK",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Northern Cyprus",
+    "Code": "OWID_CYN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2004,
+    "Continent": "",
+    "Users": 4900180,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2005,
+    "Continent": "",
+    "Users": 9865805,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 14966180,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 26916562,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 44357628,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 47366905,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 49941613,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 47609080,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Orkut",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 45067022,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Palestine",
+    "Code": "PSE",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Parma",
+    "Code": "OWID_PMA",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Pinterest",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 143250000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Pinterest",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 195000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Pinterest",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 246500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Pinterest",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": 291000000,
+    "Men": 15,
+    "Women": 42
+  },
+  {
+    "Entity": "Pitcairn",
+    "Code": "PCN",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 248309,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 488331,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 1944940,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 3893524,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 135786956,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 163346676,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 238972480,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 297394200,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 355000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reddit",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": "",
+    "Men": 15,
+    "Women": 8
+  },
+  {
+    "Entity": "Republic of Vietnam",
+    "Code": "OWID_RVN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Reunion",
+    "Code": "REU",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Barthélemy",
+    "Code": "BLM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Helena",
+    "Code": "SHN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Martin (French part)",
+    "Code": "MAF",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Pierre and Miquelon",
+    "Code": "SPM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "San Marino",
+    "Code": "SMR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Saxony",
+    "Code": "OWID_SAX",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Serbia and Montenegro",
+    "Code": "OWID_SRM",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Serbia excluding Kosovo",
+    "Code": "OWID_SEK",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Sint Maarten (Dutch part)",
+    "Code": "SXM",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Snapchat",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 238648000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Snapchat",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": "",
+    "Men": 24,
+    "Women": 24
+  },
+  {
+    "Entity": "Solomon Islands",
+    "Code": "SLB",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Somalia",
+    "Code": "SOM",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Somaliland",
+    "Code": "OWID_SML",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "South Georgia and the South Sandwich Islands",
+    "Code": "SGS",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "South Ossetia",
+    "Code": "OWID_SOS",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Svalbard and Jan Mayen",
+    "Code": "SJM",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Swaziland",
+    "Code": "SWZ",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "TikTok",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 239142500,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "TikTok",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 500000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tokelau",
+    "Code": "TKL",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Transnistria",
+    "Code": "OWID_TRS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 146890156,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 293482050,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 388721163,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 475923363,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 565796720,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 593783960,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tumblr",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 624000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Turks and Caicos Islands",
+    "Code": "TCA",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tuscany",
+    "Code": "OWID_TUS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Tuvalu",
+    "Code": "TUV",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 43250000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 92750000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 160250000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 223675000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 223675000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 304500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 314500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 328250000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 329500000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Twitter",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": 330000000,
+    "Men": 24,
+    "Women": 21
+  },
+  {
+    "Entity": "Two Sicilies",
+    "Code": "OWID_SIC",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "USSR",
+    "Code": "OWID_USS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "United Korea",
+    "Code": "OWID_KRU",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "United States Minor Outlying Islands",
+    "Code": "UMI",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2015,
+    "Continent": "North America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Vatican",
+    "Code": "VAT",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2015,
+    "Continent": "South America",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Wallis and Futuna",
+    "Code": "WLF",
+    "Year": 2015,
+    "Continent": "Oceania",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 47818400,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 118123370,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 196523760,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 444232415,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 660843407,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 847512320,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 921742750,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "WeChat",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 1000000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 19532900,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 48691040,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 79195730,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 118261880,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 154890345,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 208716685,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 281026560,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 357569030,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Weibo",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 431000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "West Germany",
+    "Code": "OWID_GFR",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Western Sahara",
+    "Code": "ESH",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Whatsapp",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 300000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Whatsapp",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 498750000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Whatsapp",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 800000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Whatsapp",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 1000000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Whatsapp",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 1333333333,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Whatsapp",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": "",
+    "Men": 21,
+    "Women": 19
+  },
+  {
+    "Entity": "Wuerttemburg",
+    "Code": "OWID_WRT",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Yemen Arab Republic",
+    "Code": "OWID_YAR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Yemen People's Republic",
+    "Code": "OWID_YPR",
+    "Year": 2015,
+    "Continent": "Asia",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2005,
+    "Continent": "",
+    "Users": 1946322,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2006,
+    "Continent": "",
+    "Users": 19878248,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2007,
+    "Continent": "",
+    "Users": 143932250,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2008,
+    "Continent": "",
+    "Users": 294493950,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2009,
+    "Continent": "",
+    "Users": 413611440,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2010,
+    "Continent": "",
+    "Users": 480551990,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2011,
+    "Continent": "",
+    "Users": 642669824,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2012,
+    "Continent": "",
+    "Users": 844638200,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2013,
+    "Continent": "",
+    "Users": 1065223075,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2014,
+    "Continent": "",
+    "Users": 1249451725,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2015,
+    "Continent": "",
+    "Users": 1328133360,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2016,
+    "Continent": "",
+    "Users": 1399053600,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2017,
+    "Continent": "",
+    "Users": 1495657000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2018,
+    "Continent": "",
+    "Users": 1900000000,
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "YouTube",
+    "Code": "",
+    "Year": 2019,
+    "Continent": "",
+    "Users": "",
+    "Men": 78,
+    "Women": 68
+  },
+  {
+    "Entity": "Yugoslavia",
+    "Code": "OWID_YGS",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Zanzibar",
+    "Code": "OWID_ZAN",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2015,
+    "Continent": "Africa",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  },
+  {
+    "Entity": "Åland Islands",
+    "Code": "ALA",
+    "Year": 2015,
+    "Continent": "Europe",
+    "Users": "",
+    "Men": "",
+    "Women": ""
+  }
+]

@@ -1,0 +1,123 @@
+
+@font-face {
+font-family:police1;
+src:url("medias/OfficeCodeProD-Bold.ttf");
+
+}
+@font-face {
+  font-family:police2;
+  src:url("medias/GT-America-Standard-Regular-Trial.otf");
+  
+  }
+  
+
+
+body {
+
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#infos {
+    font-family:police1;
+    
+    top:0px;
+    right: 10px;
+    text-align: right;
+
+   
+}
+
+select, option {
+  font: -moz-pull-down-menu;
+}
+
+h1 {
+  font-family: police2;
+  color: white;
+  font-size: 2.5vw;
+  text-align: justify;
+  text-align-last: justify;
+  border-bottom: solid 4px;
+  margin-left: 10;
+  margin-right: 10;
+  padding: 2px;
+  
+    
+
+
+    
+
+    
+}
+
+
+ /* Reset Select */
+ select {
+    font-family:police1;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: rgb(0, 255, 55);
+    background-image: none;
+  }
+  /* Remove IE arrow */
+  select::-ms-expand {
+    display: none;
+  }
+  /* Custom Select */
+  .select {
+    font-family:police1;
+    position: relative;
+    display: flex;
+    float: right;
+    width: 20em;
+    height: 2em;
+    line-height: 3;
+    background: rgb(0, 255, 55);
+    overflow: hidden;
+    border-radius: .25em;
+  }
+  select {
+    font-family:police1;
+    flex: 1;
+    padding: 0 .5em;
+    color: black;
+    cursor: pointer;
+  }
+  /* Arrow */
+  .select::after {
+    font-family:police1;
+    content: '\25BC';
+    position: absolute;
+    top: -8px;
+    right: 0;
+    padding: 0 1em;
+    background: rgb(0, 255, 55);
+    cursor: pointer;
+    pointer-events: none;
+    -webkit-transition: .25s all ease;
+    -o-transition: .25s all ease;
+    transition: .25s all ease;
+  }
+  /* Transition */
+  .select:hover::after {
+    font-family:police1;
+    color: #000000;
+  }
+  .select-items {
+    font-family:police1;
+  }
+
+  .select-items div,.select-selected {
+    font-family:police1;
+  }
+
+  option {
+    font-family:police1;
+  }

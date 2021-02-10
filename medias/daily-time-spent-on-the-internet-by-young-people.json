@@ -1,0 +1,117 @@
+[
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Time": 2.916666667
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Time": 3.95
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Time": 4.033333333
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Time": 5.283333333
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Time": 3.366666667
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Time": 4.05
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Time": 4.5
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Time": 3.816666667
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Time": 5.333333333
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Time": 3.733333333
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Time": 4.416666667
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Time": 3.666666667
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Time": 3.966666667
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Time": 6.033333333
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Time": 4.916666667
+  },
+  {
+    "Entity": "OECD-22",
+    "Code": "",
+    "Time": 4.366666667
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Time": 3.466666667
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Time": 5.666666667
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Time": 2.75
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Time": 5.25
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Time": 5.516666667
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Time": 3.6
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Time": 5.15
+  }
+]
